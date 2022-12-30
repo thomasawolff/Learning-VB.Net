@@ -1,0 +1,14 @@
+C:\Users\CBA463\source\repos\Mammels\Mammels\bin\Debug\netcoreapp3.1\Mammels.exe
+C:\Users\CBA463\source\repos\Mammels\Mammels\bin\Debug\netcoreapp3.1\Mammels.deps.json
+C:\Users\CBA463\source\repos\Mammels\Mammels\bin\Debug\netcoreapp3.1\Mammels.runtimeconfig.json
+C:\Users\CBA463\source\repos\Mammels\Mammels\bin\Debug\netcoreapp3.1\Mammels.runtimeconfig.dev.json
+C:\Users\CBA463\source\repos\Mammels\Mammels\bin\Debug\netcoreapp3.1\Mammels.dll
+C:\Users\CBA463\source\repos\Mammels\Mammels\bin\Debug\netcoreapp3.1\Mammels.pdb
+C:\Users\CBA463\source\repos\Mammels\Mammels\obj\Debug\netcoreapp3.1\Mammels.vbproj.AssemblyReference.cache
+C:\Users\CBA463\source\repos\Mammels\Mammels\obj\Debug\netcoreapp3.1\Mammels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CBA463\source\repos\Mammels\Mammels\obj\Debug\netcoreapp3.1\Mammels.AssemblyInfoInputs.cache
+C:\Users\CBA463\source\repos\Mammels\Mammels\obj\Debug\netcoreapp3.1\Mammels.AssemblyInfo.vb
+C:\Users\CBA463\source\repos\Mammels\Mammels\obj\Debug\netcoreapp3.1\Mammels.vbproj.CoreCompileInputs.cache
+C:\Users\CBA463\source\repos\Mammels\Mammels\obj\Debug\netcoreapp3.1\Mammels.dll
+C:\Users\CBA463\source\repos\Mammels\Mammels\obj\Debug\netcoreapp3.1\Mammels.pdb
+C:\Users\CBA463\source\repos\Mammels\Mammels\obj\Debug\netcoreapp3.1\Mammels.genruntimeconfig.cache
