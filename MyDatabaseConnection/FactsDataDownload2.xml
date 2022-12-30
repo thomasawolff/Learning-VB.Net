@@ -1,0 +1,1062 @@
+<Statistics>
+  <Stats>
+    <Code>1D</Code>
+    <Description>12MO AVG</Description>
+    <LongDescription>12 Month Average</LongDescription>
+    <GroupCode>AVG</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>1I</Code>
+    <Description>1 HR AVG</Description>
+    <LongDescription>1 Hour Average</LongDescription>
+    <GroupCode>AVG</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>3A</Code>
+    <Description>30DA GM</Description>
+    <LongDescription>30 Day Geometric Mean</LongDescription>
+    <GroupCode>AVGMON</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>3B</Code>
+    <Description>30DA ARI</Description>
+    <LongDescription>30 Day Arithmetic</LongDescription>
+    <FeeCalcPreference>12</FeeCalcPreference>
+    <GroupCode>AVGMON</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>3C</Code>
+    <Description>30DA AVG</Description>
+    <LongDescription>30 Day Average</LongDescription>
+    <FeeCalcPreference>10</FeeCalcPreference>
+    <GroupCode>AVGMON</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>3D</Code>
+    <Description>30DA GEO</Description>
+    <LongDescription>30 Day Geometric</LongDescription>
+    <GroupCode>AVGMON</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>3E</Code>
+    <Description>30DA MAX</Description>
+    <LongDescription>30 Day Maximum</LongDescription>
+    <FeeCalcPreference>70</FeeCalcPreference>
+    <GroupCode>MAXMON</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>3H</Code>
+    <Description>30DAVGEO</Description>
+    <LongDescription>30 Day Average Geometric</LongDescription>
+    <GroupCode>AVGMON</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>6D</Code>
+    <Description>6 MO AVG</Description>
+    <LongDescription>6 Month Average</LongDescription>
+    <FeeCalcPreference>51</FeeCalcPreference>
+    <GroupCode>AVG</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>7A</Code>
+    <Description>7 DA AVG</Description>
+    <LongDescription>7 Day Average</LongDescription>
+    <FeeCalcPreference>31</FeeCalcPreference>
+    <GroupCode>AVGWK</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>7B</Code>
+    <Description>7 DA GEO</Description>
+    <LongDescription>7 Day Geometric</LongDescription>
+    <GroupCode>AVGWK</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>7D</Code>
+    <Description>7 DA MIN</Description>
+    <LongDescription>7 Day Minimum</LongDescription>
+    <QualifierCode>&gt;=</QualifierCode>
+    <GroupCode>MIN</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>7E</Code>
+    <Description>7 DA MAX</Description>
+    <LongDescription>7 Day Maximum</LongDescription>
+    <FeeCalcPreference>91</FeeCalcPreference>
+    <GroupCode>MAX</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>7I</Code>
+    <Description>7DAV GEO</Description>
+    <LongDescription>7-Day Average Geometric</LongDescription>
+    <GroupCode>AVGWK</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>9B</Code>
+    <Description>90DA AVG</Description>
+    <LongDescription>90 Day Average</LongDescription>
+    <FeeCalcPreference>21</FeeCalcPreference>
+    <GroupCode>VAL</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>A1</Code>
+    <Description>AVERAGE </Description>
+    <LongDescription>Average (Data Migration)</LongDescription>
+    <FeeCalcPreference>61</FeeCalcPreference>
+    <GroupCode>AVG</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>AA</Code>
+    <Description>ALLWLOAD</Description>
+    <LongDescription>Allowed Load</LongDescription>
+    <GroupCode>MAXMON</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>AB</Code>
+    <Description>ANNL AVG</Description>
+    <LongDescription>Annual Average</LongDescription>
+    <FeeCalcPreference>60</FeeCalcPreference>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>AVGMON</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>AC</Code>
+    <Description>ANNL MAX</Description>
+    <LongDescription>Annual Maximum</LongDescription>
+    <FeeCalcPreference>120</FeeCalcPreference>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>MAXDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>AD</Code>
+    <Description>ANNL TOT</Description>
+    <LongDescription>Annual Total</LongDescription>
+    <GroupCode>VAL</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>AE</Code>
+    <Description>ARI MEAN</Description>
+    <LongDescription>Arithmetic Mean</LongDescription>
+    <FeeCalcPreference>64</FeeCalcPreference>
+    <GroupCode>VAL</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>AF</Code>
+    <Description>AVERAGE</Description>
+    <LongDescription>Average</LongDescription>
+    <FeeCalcPreference>62</FeeCalcPreference>
+    <GroupCode>VAL</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>AGM</Code>
+    <Description>AN GEOMEAN</Description>
+    <LongDescription>Annual Geometric Mean</LongDescription>
+    <GroupCode>AVG</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>AH</Code>
+    <Description>AV VALUE</Description>
+    <LongDescription>Average Value</LongDescription>
+    <GroupCode>VAL</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>AL</Code>
+    <Description>AN MS LD</Description>
+    <LongDescription>Annual Mass Loading</LongDescription>
+    <GroupCode>VAL</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>AM</Code>
+    <Description>AN AV MN</Description>
+    <LongDescription>Annual Average Minimum</LongDescription>
+    <QualifierCode>&gt;=</QualifierCode>
+    <GroupCode>MIN</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>AN</Code>
+    <Description>ANNL MEDN</Description>
+    <LongDescription>Annual Median</LongDescription>
+    <GroupCode>AVG</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>AX</Code>
+    <Description>AN AV MX</Description>
+    <LongDescription>Annual Average Maximum</LongDescription>
+    <FeeCalcPreference>121</FeeCalcPreference>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>MAX</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>BB</Code>
+    <Description>AVG MN</Description>
+    <LongDescription>Average (Minimum)</LongDescription>
+    <QualifierCode>&gt;=</QualifierCode>
+    <GroupCode>MIN</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>BF</Code>
+    <Description>CUM TOTL</Description>
+    <LongDescription>Cumulative Total</LongDescription>
+    <GroupCode>MAX</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>CA</Code>
+    <Description>ALLWCONC</Description>
+    <LongDescription>Allowed Concentration</LongDescription>
+    <GroupCode>VAL</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>DA</Code>
+    <Description>DA GEOAV</Description>
+    <LongDescription>Daily Geometric Average</LongDescription>
+    <GroupCode>AVGMON</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>DB</Code>
+    <Description>DAILY AV</Description>
+    <LongDescription>Daily Average</LongDescription>
+    <FeeCalcPreference>40</FeeCalcPreference>
+    <GroupCode>MAX</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>DC</Code>
+    <Description>DAILY MN</Description>
+    <LongDescription>Daily Minimum</LongDescription>
+    <QualifierCode>&gt;=</QualifierCode>
+    <GroupCode>MINDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>DD</Code>
+    <Description>DAILY MX</Description>
+    <LongDescription>Daily Maximum</LongDescription>
+    <FeeCalcPreference>100</FeeCalcPreference>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>MAXDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>DM</Code>
+    <Description>DA GEO</Description>
+    <LongDescription>Daily Geometric</LongDescription>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>MAXDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>DN</Code>
+    <Description>DISCHARG</Description>
+    <LongDescription>Discharged</LongDescription>
+    <GroupCode>VAL</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>ET</Code>
+    <Description>EVNT TOT</Description>
+    <LongDescription>Event Total</LongDescription>
+    <GroupCode>VAL</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>GA</Code>
+    <Description>GEO MEAN</Description>
+    <LongDescription>Geometric Mean</LongDescription>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>AVGMON</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>IA</Code>
+    <Description>INST MAX</Description>
+    <LongDescription>Instantaneous Maximum</LongDescription>
+    <FeeCalcPreference>170</FeeCalcPreference>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>MAXDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>IB</Code>
+    <Description>INST MIN</Description>
+    <LongDescription>Instantaneous Minimum</LongDescription>
+    <QualifierCode>&gt;=</QualifierCode>
+    <GroupCode>MINDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>M0</Code>
+    <Description>MX VALUE</Description>
+    <LongDescription>Maximum Value</LongDescription>
+    <FeeCalcPreference>131</FeeCalcPreference>
+    <GroupCode>MAXDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>M2</Code>
+    <Description>MX MO AV</Description>
+    <LongDescription>Maximum Monthly Average</LongDescription>
+    <FeeCalcPreference>72</FeeCalcPreference>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>MAXMON</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>M4</Code>
+    <Description>MOAV GEO</Description>
+    <LongDescription>Monthly Average Geometric</LongDescription>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>AVGMON</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>M5</Code>
+    <Description>MINIMUM </Description>
+    <LongDescription>Minimum (Data Migration)</LongDescription>
+    <QualifierCode>&gt;=</QualifierCode>
+    <GroupCode>MINDA</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>M6</Code>
+    <Description>MAXIMUM </Description>
+    <LongDescription>Maximum (Data Migration)</LongDescription>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>MAXDA</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MA</Code>
+    <Description>MAX BDL</Description>
+    <LongDescription>Maximum Bdl</LongDescription>
+    <GroupCode>MAX</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MB</Code>
+    <Description>MAXIMUM</Description>
+    <LongDescription>Maximum</LongDescription>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>MAXDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>ME</Code>
+    <Description>MINIMUM</Description>
+    <LongDescription>Minimum</LongDescription>
+    <QualifierCode>&gt;=</QualifierCode>
+    <GroupCode>MINDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MF</Code>
+    <Description>MN % RMV</Description>
+    <LongDescription>Minimum Percent Removal</LongDescription>
+    <QualifierCode>&gt;=</QualifierCode>
+    <GroupCode>MINDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MG</Code>
+    <Description>MN WK AV</Description>
+    <LongDescription>Minimum Weekly Average</LongDescription>
+    <QualifierCode>&gt;=</QualifierCode>
+    <GroupCode>MIN</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MH</Code>
+    <Description>MN 7D AV</Description>
+    <LongDescription>Minimum 7 Day Average</LongDescription>
+    <QualifierCode>&gt;=</QualifierCode>
+    <GroupCode>MIN</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MI</Code>
+    <Description>MN7DGEOA</Description>
+    <LongDescription>Minimum 7 Day Geo. Ave</LongDescription>
+    <QualifierCode>&gt;=</QualifierCode>
+    <GroupCode>MINMON</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MJ</Code>
+    <Description>MO AV MN</Description>
+    <LongDescription>Monthly Average Minimum</LongDescription>
+    <QualifierCode>&gt;=</QualifierCode>
+    <GroupCode>AVGMON</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MK</Code>
+    <Description>MO AVG</Description>
+    <LongDescription>Monthly Average</LongDescription>
+    <FeeCalcPreference>11</FeeCalcPreference>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>AVGMON</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>ML</Code>
+    <Description>MO GEO</Description>
+    <LongDescription>Monthly Geometric</LongDescription>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>AVGMON</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MM</Code>
+    <Description>MO GEOMN</Description>
+    <LongDescription>Monthly Geometric Mean</LongDescription>
+    <QualifierCode>&gt;=</QualifierCode>
+    <GroupCode>MINMON</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MN</Code>
+    <Description>MO MAX</Description>
+    <LongDescription>Monthly Maximum</LongDescription>
+    <FeeCalcPreference>71</FeeCalcPreference>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>MAXDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MO</Code>
+    <Description>MO MIN</Description>
+    <LongDescription>Monthly Minimum</LongDescription>
+    <QualifierCode>&gt;=</QualifierCode>
+    <GroupCode>MINDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MP</Code>
+    <Description>MO TOTAL</Description>
+    <LongDescription>Monthly Total</LongDescription>
+    <GroupCode>VAL</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MQ</Code>
+    <Description>MX DA AV</Description>
+    <LongDescription>Maximum Daily Average</LongDescription>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>MAXDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MR</Code>
+    <Description>MX HR RT</Description>
+    <LongDescription>Maximum Hourly Rate</LongDescription>
+    <GroupCode>MAX</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MS</Code>
+    <Description>MX WK AV</Description>
+    <LongDescription>Maximum Weekly Average</LongDescription>
+    <FeeCalcPreference>92</FeeCalcPreference>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>MAX</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MT</Code>
+    <Description>MX 7D AV</Description>
+    <LongDescription>Maximum 7 Day Average</LongDescription>
+    <GroupCode>AVGWK</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MTLTA</Code>
+    <Description>LONG TERM AVG</Description>
+    <LongDescription>Long Term Average</LongDescription>
+    <NonICIS>Y</NonICIS>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MTLTAI</Code>
+    <Description>Intake LONG TERM AVG</Description>
+    <LongDescription>Intake Long Term Average</LongDescription>
+    <NonICIS>Y</NonICIS>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MU</Code>
+    <Description>MX 7D GM</Description>
+    <LongDescription>Maximum 7 Day Geometric</LongDescription>
+    <GroupCode>MAX</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MV</Code>
+    <Description>MX7DGEOA</Description>
+    <LongDescription>Maximum 7 Day Geo. Avg.</LongDescription>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>MAXDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MX</Code>
+    <Description>MO GEOMX</Description>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2018-03-12T16:35:53.080</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2018-03-12T16:35:53.080</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>MZ</Code>
+    <Description>MN VALUE</Description>
+    <LongDescription>Minimum Value</LongDescription>
+    <GroupCode>MINDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>QA</Code>
+    <Description>QRTR AVG</Description>
+    <LongDescription>Quarterly Average</LongDescription>
+    <FeeCalcPreference>20</FeeCalcPreference>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>AVGMON</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>QB</Code>
+    <Description>QRTR MAX</Description>
+    <LongDescription>Quarterly Maximum</LongDescription>
+    <FeeCalcPreference>80</FeeCalcPreference>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>MAXDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>QC</Code>
+    <Description>QRTR MIN</Description>
+    <LongDescription>Quarterly Minimum</LongDescription>
+    <QualifierCode>&gt;=</QualifierCode>
+    <GroupCode>MINDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>QT</Code>
+    <Description>QTRTOTAL</Description>
+    <LongDescription>Quarterly Total</LongDescription>
+    <GroupCode>VAL</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>RA</Code>
+    <Description>ROLL AVG</Description>
+    <LongDescription>Rolling Average</LongDescription>
+    <GroupCode>AVG</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>RF</Code>
+    <Description>Agg Rol Av</Description>
+    <LongDescription>Aggregate 12 Mo Rolling Avg</LongDescription>
+    <GroupCode>VAL</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>SA</Code>
+    <Description>SINGSAMP</Description>
+    <LongDescription>Single Sample</LongDescription>
+    <FeeCalcPreference>140</FeeCalcPreference>
+    <GroupCode>VAL</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>SB</Code>
+    <Description>SM2CNSAM</Description>
+    <LongDescription>Single Mv Conc Sample</LongDescription>
+    <GroupCode>VAL</GroupCode>
+    <Status>I</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2017-05-05T14:52:41.077</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2017-05-05T14:52:41.077</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>SC</Code>
+    <Description>SEMI AVG</Description>
+    <LongDescription>Semi-Annual Average</LongDescription>
+    <FeeCalcPreference>50</FeeCalcPreference>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>AVGMON</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>SE</Code>
+    <Description>Single Rdg</Description>
+    <LongDescription>Single Reading</LongDescription>
+    <FeeCalcPreference>150</FeeCalcPreference>
+    <GroupCode>VAL</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>SG</Code>
+    <Description>SINGGRAB</Description>
+    <LongDescription>Single Grab</LongDescription>
+    <FeeCalcPreference>160</FeeCalcPreference>
+    <GroupCode>VAL</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>SM</Code>
+    <Description>SEMI MIN</Description>
+    <LongDescription>Semi-Annual Minimum</LongDescription>
+    <QualifierCode>&gt;=</QualifierCode>
+    <GroupCode>MINDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>SX</Code>
+    <Description>SEMI MAX</Description>
+    <LongDescription>Semi-Annual Maximum</LongDescription>
+    <FeeCalcPreference>110</FeeCalcPreference>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>MAXDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>TB</Code>
+    <Description>TOTAL</Description>
+    <LongDescription>Total</LongDescription>
+    <GroupCode>VAL</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>VA</Code>
+    <Description>VALUE</Description>
+    <LongDescription>Value</LongDescription>
+    <FeeCalcPreference>130</FeeCalcPreference>
+    <GroupCode>VAL</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>WA</Code>
+    <Description>WKLY AVG</Description>
+    <LongDescription>Weekly Average</LongDescription>
+    <FeeCalcPreference>30</FeeCalcPreference>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>AVGWK</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>WB</Code>
+    <Description>WKLY GEO</Description>
+    <LongDescription>Weekly Geometric</LongDescription>
+    <GroupCode>AVG</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>WC</Code>
+    <Description>WKLY MAX</Description>
+    <LongDescription>Weekly Maximum</LongDescription>
+    <FeeCalcPreference>90</FeeCalcPreference>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>MAXDA</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>WD</Code>
+    <Description>WKLY MIN</Description>
+    <LongDescription>Weekly Minimum</LongDescription>
+    <QualifierCode>&gt;=</QualifierCode>
+    <GroupCode>MIN</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+  <Stats>
+    <Code>WE</Code>
+    <Description>WKAV GEO</Description>
+    <LongDescription>Weekly Average Geometric</LongDescription>
+    <QualifierCode>&lt;=</QualifierCode>
+    <GroupCode>AVGWK</GroupCode>
+    <Status>A</Status>
+    <CreatedBy>1</CreatedBy>
+    <CreatedDate>2016-06-08T14:38:34.240</CreatedDate>
+    <UpdatedBy>1</UpdatedBy>
+    <UpdatedDate>2016-06-08T14:38:34.240</UpdatedDate>
+  </Stats>
+</Statistics>

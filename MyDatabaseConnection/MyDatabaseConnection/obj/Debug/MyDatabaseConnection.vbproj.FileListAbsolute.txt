@@ -1,0 +1,12 @@
+C:\Users\CBA463\source\repos\MyDatabaseConnection\MyDatabaseConnection\bin\Debug\MyDatabaseConnection.exe.config
+C:\Users\CBA463\source\repos\MyDatabaseConnection\MyDatabaseConnection\bin\Debug\MyDatabaseConnection.exe
+C:\Users\CBA463\source\repos\MyDatabaseConnection\MyDatabaseConnection\bin\Debug\MyDatabaseConnection.pdb
+C:\Users\CBA463\source\repos\MyDatabaseConnection\MyDatabaseConnection\bin\Debug\MyDatabaseConnection.xml
+C:\Users\CBA463\source\repos\MyDatabaseConnection\MyDatabaseConnection\obj\Debug\MyDatabaseConnection.vbproj.AssemblyReference.cache
+C:\Users\CBA463\source\repos\MyDatabaseConnection\MyDatabaseConnection\obj\Debug\MyDatabaseConnection.Form1.resources
+C:\Users\CBA463\source\repos\MyDatabaseConnection\MyDatabaseConnection\obj\Debug\MyDatabaseConnection.Resources.resources
+C:\Users\CBA463\source\repos\MyDatabaseConnection\MyDatabaseConnection\obj\Debug\MyDatabaseConnection.vbproj.GenerateResource.cache
+C:\Users\CBA463\source\repos\MyDatabaseConnection\MyDatabaseConnection\obj\Debug\MyDatabaseConnection.vbproj.CoreCompileInputs.cache
+C:\Users\CBA463\source\repos\MyDatabaseConnection\MyDatabaseConnection\obj\Debug\MyDatabaseConnection.exe
+C:\Users\CBA463\source\repos\MyDatabaseConnection\MyDatabaseConnection\obj\Debug\MyDatabaseConnection.xml
+C:\Users\CBA463\source\repos\MyDatabaseConnection\MyDatabaseConnection\obj\Debug\MyDatabaseConnection.pdb

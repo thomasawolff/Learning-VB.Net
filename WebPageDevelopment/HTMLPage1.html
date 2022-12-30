@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" href="stylesheet1.css" />
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        function colorGrabber() {
+            return favoriteColor
+        }
+
+        function AddFavColor() {
+            document.getElementById("favColor").innerHTML = "Your favorite color is " + colorGrabber() + "and thats the color of everything!";
+            return favoriteColor
+        }
+    </script>
+</head>
+<body>
+    <h1>This is my heading 1</h1>
+    <h2>This is my heading 2</h2>
+    <p style="background-color:coral"><b>HTML</b> is Hypertext Markup Language.</p>
+    <i style="color:green">HTTP</i> is Hypertext Transfer Protocol.</br>
+    <u style="color:green">HTTPS</u> is Hypertext Transfer Protocol Secure.</p>
+    This is a link to <a href="https://www.microsoft.com"> Microsoft</a>
+    <p id="favColor"></p>
+    <script>
+        favoriteColor = prompt("Please enter your favorite color:")
+        AddFavColor()
+    </script>
+</body>
+</html>
